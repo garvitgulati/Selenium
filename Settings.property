@@ -1,0 +1,4 @@
+url=https://www.meripustak.com/
+browser=chrome
+search=//*[@id="sb_form_q"]
+searchButton=//*[@id="sb_form_go"]
